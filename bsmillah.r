@@ -6,3 +6,7 @@ print(name)
 
 grade="graduate"
 print(grade)
+
+a="Pakistan"
+b=" zindabad"
+print(a)
